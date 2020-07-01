@@ -1,0 +1,81 @@
+
+body{
+
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-size: 1600px;
+
+}
+
+#website_style{
+   color: white;
+   width: 800px;
+   height: 400px;
+   background-color: white;
+   box-shadow: 10px 10px 20px 10px rgba(0,0,0,0.4);
+   border-radius: 20px;
+   overflow: hidden;
+   position: fixed;
+   border: 250px;
+   padding: 30px;
+   margin: 120px 290px auto;
+
+
+}
+
+
+ h1{
+
+border: 3px soild #D3D3D3;
+background-color: #D3D3D3;
+padding: 1px;
+font-size: 15px;
+font-family: monospace;
+margin: 10px;
+
+ }
+
+ h2{
+   font-family:serif;
+   border-top: 2px solid #FFD700 ;
+   border-bottom: 2px solid #FFD700;
+   padding-top: 10px;
+   padding-bottom:10px;
+
+ }
+
+.buttonStyle{
+  width: 125px;
+  height: 45px;
+  border-radius: 15px;
+  font-size: 15px;
+  font-family:monospace;
+
+}
+
+.buttonStyle:hover{
+  background-color: #8FBC8F;
+
+
+}
+
+.buttonStyle1{
+
+    width: 125px;
+    height: 45px;
+    border-radius: 15px;
+    font-size: 15px;
+    font-family:monospace;
+
+}
+
+.buttonStyle1:hover{
+  background-color: #B22222;
+
+}
+
+img{
+  width: 300px;
+  float: left;
+
+}
